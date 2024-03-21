@@ -1,0 +1,16 @@
+lightning
+diffusers==0.27
+transformers
+huggingface_hub
+albumentations
+ftfy
+pillow
+einops
+torchmetrics
+accelerate
+ipywidgets
+omegaconf
+pyrallis
+Jinja2
+peft
+triton

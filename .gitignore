@@ -1,0 +1,7 @@
+**/__pycache__
+/.vscode
+/.history
+/.ipynb_checkpoints
+
+# 自己添加
+/PIE
