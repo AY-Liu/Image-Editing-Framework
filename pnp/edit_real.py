@@ -18,7 +18,7 @@ parser.add_argument("--device",type=int,default=0)
 parser.add_argument("--seed",type=int,default=42)
 parser.add_argument("--source_prompt",type=str,default="a gray horse in the field")
 parser.add_argument("--target_prompt",type=str,default="a whie horse in the field")
-parser.add_argument("--source_image",type=str,default="/mnt/disk_1/aoyang/Editing-framework/pnp/test.jpg")
+parser.add_argument("--source_image",type=str,default="./test.jpg")
 parser.add_argument("--inversion_type",type=str,default="ddim")
 args = parser.parse_args()
 

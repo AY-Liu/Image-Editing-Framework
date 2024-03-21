@@ -34,7 +34,7 @@ inversion_type = "ddim"
 
 # path param
 exp_path = "./test_exp"
-dataset_path = "/mnt/disk_1/aoyang/Editing-framework/PIE"
+dataset_path = "./PIE"
 inversion_path = None
 
 # masactrl param
